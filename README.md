@@ -6,3 +6,6 @@ GUI tools used for uploading files or directory to s3 <br>
 3 S3 means AWS storage bucket  <br>
 4 the user could input the S3 name, s3 region, accessId and accessKey to obtain permission to access S3 <br>
 
+# Installment
+1  pip install -r requirement.txt  
+2  fbs run 
