@@ -6,9 +6,29 @@ GUI tools used for uploading files or directory to s3 <br>
 3 S3 means AWS storage bucket  <br>
 4 the user could input the S3 name, s3 region, accessId and accessKey to obtain permission to access S3 <br>
 
-# Code Directory
-
 
 # Installation
-1  pip install -r requirement.txt  
-2  fbs run 
+1  pip install -r requirement.txt  <br>
+2  fbs run <br>
+<img src="https://github.com/albertshao/s3uploadtool/blob/master/png/loginwindow.png"> </img><br>
+this command could run the application  <br>
+3  fbs freeze  <br>
+4 fbs installer  <br>
+the above commands will package the program to executable applicaitoin <br>
+<img src="https://github.com/albertshao/s3uploadtool/blob/master/png/package.png"> </img>
+
+# Functions
+
+1 Login <br>
+<img src="https://github.com/albertshao/s3uploadtool/blob/master/png/loginwindow.png"> </img><br>
+2 Main Window<br>
+<img src="https://github.com/albertshao/s3uploadtool/blob/master/png/MainWindow.png"> </img><br>
+3 Upload files<br>
+<img src="https://github.com/albertshao/s3uploadtool/blob/master/png/uploadfiles.png"> </img><br>
+4 Upload directory<br>
+<img src="https://github.com/albertshao/s3uploadtool/blob/master/png/uploaddirectory.png"> </img><br>
+
+
+
+
+
